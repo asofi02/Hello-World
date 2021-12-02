@@ -58,9 +58,9 @@ void leerArregloTriangulo(Triangulo arrTriangulos[], int iS){
   
 ----
   
-[title](https://www.markdownguide.org/cheat-sheet/)
+[Markdown](https://www.markdownguide.org/cheat-sheet/)
   
-![title](playa.jpg)
+![Foto de playita](playa.jpg)
   
   
   
@@ -72,3 +72,14 @@ void leerArregloTriangulo(Triangulo arrTriangulos[], int iS){
 - [x] Proyecto progra
 - [ ] Proyecto bloque
 - [ ] Examen mate
+
+```` c++
+Serie::Serie(std::string _id, std::string _titulo, int _duracion, std::string _genero, double _calificacionPromedio, int _cantEpisodios){
+    id = _id;
+    titulo = _titulo;
+    duracion = _duracion;
+    genero = _genero;
+    calificacionPromedio = _calificacionPromedio;
+    cantEpisodios = _cantEpisodios;
+}
+````
