@@ -60,7 +60,7 @@ void leerArregloTriangulo(Triangulo arrTriangulos[], int iS){
   
 [title](https://www.markdownguide.org/cheat-sheet/)
   
-![title](playa.png)
+![title](playa.jpg)
   
   
   
