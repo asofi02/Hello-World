@@ -15,7 +15,7 @@ italicized text
 - Método de calcular als frecuencias
 - Descargar los nuevos archivos de Series y Episodios
 
-	` c++
+````c++
 //
 //  main.cpp
 //  Composicion Triangulo
@@ -53,7 +53,7 @@ void leerArregloTriangulo(Triangulo arrTriangulos[], int iS){
     }
 }
 
-  `
+````
   
   
 ----
